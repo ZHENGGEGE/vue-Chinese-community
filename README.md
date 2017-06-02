@@ -1,4 +1,4 @@
-# y
+# vue-Chinese-community
 
 > 基于vue2.0  vue-router vuex museui 的vue中文社区，学习vue的可以看下，刚学vue，有不足地方请不要见怪。
 
