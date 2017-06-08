@@ -1,6 +1,7 @@
 # vue-Chinese-community
 
 > 基于vue2.0  vue-router vuex museui 的vue中文社区
+> 数据使用的时vue中文社区的公开api接口
 
 ## Build Setup
 
